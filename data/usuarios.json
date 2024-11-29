@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Usuario1",
+        "password": "1234",
+        "saldo": 1000,
+        "movimientos": []
+    },
+    {
+        "nombre": "Usuario2",
+        "password": "1234",
+        "saldo": 500,
+        "movimientos": []
+    },
+    {
+        "nombre": "admin",
+        "password": "admin",
+        "saldo": 2000,
+        "movimientos": []
+    }
+]
